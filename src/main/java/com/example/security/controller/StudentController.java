@@ -1,5 +1,6 @@
-package com.example.security.student;
+package com.example.security.controller;
 
+import com.example.security.entity.Student;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

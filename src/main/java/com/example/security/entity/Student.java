@@ -1,4 +1,4 @@
-package com.example.security.student;
+package com.example.security.entity;
 
 import lombok.*;
 
